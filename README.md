@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Athletics, Art, Music, Movies, Adventure, Leisure
 - 🌱 I’m currently learning ... Scheme, C++, Python
 - 💞️
-- 📫 How to reach me ... email
+- 📫 How to reach me ... email, slack, text
 - 😄 Pronouns: ... Him
 - ⚡ Fun fact: ...
 
